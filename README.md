@@ -1,8 +1,7 @@
 # 🌐 Personal Portfolio Website
 <p align="center">
   <img src="5.png" width="550">
-</p>
-    
+</p>    
 ---
 
 A modern, minimal portfolio website showcasing my frontend projects, experience, and UI-focused web work.
